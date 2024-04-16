@@ -1,0 +1,18 @@
+{
+	"Print to console": {
+		"scope": "javascript,typescript",
+		"prefix": "rnp",
+		"body": [
+			"import React from 'react;'",
+			"import { $1 } from 'react-native';",
+			"",
+			"export default props => {",
+			"    return(",
+			"       ",
+			"     )",
+			"}"	
+
+		],
+		"description": "Log output to console"
+	}
+}
